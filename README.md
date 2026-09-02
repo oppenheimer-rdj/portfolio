@@ -1,37 +1,39 @@
 # Selva Surya E — Professional Portfolio
 
-A responsive static portfolio website focused on AI/ML engineering, data science, LLM applications, backend APIs, cloud and MLOps.
+A responsive, recruiter-focused portfolio for **AI/ML Engineering · Data Science · Backend · Cloud · MLOps**.
 
-## Files
+## ✨ Highlights
 
-- `index.html` — page structure and content
-- `styles.css` — responsive design system
-- `script.js` — scroll reveal and navigation behavior
+- Modern dark developer aesthetic with responsive layouts
+- Single professional portrait using `imgs/IMG_5902.jpg`
+- Clean navigation, scroll-reveal animations and mobile support
+- Direct links to GitHub, LinkedIn, email and phone
+- Project showcase covering the public repositories that should be promoted
+- Excludes the projects requested for removal: Digital Nature FSE, CTS Python FSE and Work Hours Tracker Backend
+- All GitHub links use the current username: `oppenheimer-rdj`
 
-## Run locally
+## 📁 Structure
 
-Open `index.html` directly in a browser, or serve the folder with any static server.
+- `index.html` — portfolio content and semantic page structure
+- `styles.css` — responsive visual system and components
+- `script.js` — reveal animations and active navigation
+- `imgs/` — portfolio images
 
-Example:
+## 🚀 Run locally
 
 ```bash
 python -m http.server 8000
 ```
 
-Then visit `http://localhost:8000`.
+Open `http://localhost:8000`.
 
-## Deploy
+## ☁️ Deploy
 
-This project can be deployed directly to:
+No build step is required. The site is ready for Vercel, Netlify or GitHub Pages.
 
-- Vercel
-- Netlify
-- GitHub Pages
+## 🔗 Links
 
-No build step is required.
-
-## Personal links
-
-GitHub: https://github.com/selvasurya031  
-LinkedIn: https://www.linkedin.com/in/selva-surya-e-332006031e/  
-Email: selvasurya.data@gmail.com
+- GitHub: https://github.com/oppenheimer-rdj
+- Portfolio: https://selvasurya-portfolio.vercel.app/
+- LinkedIn: https://www.linkedin.com/in/selva-surya-e-332006031e/
+- Email: selvasurya.data@gmail.com
